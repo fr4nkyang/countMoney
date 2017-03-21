@@ -1,0 +1,145 @@
+{
+	"groups": [
+		{
+			"keys": "ge_cannon_open_22_png,sky_00_png,turret_right_png,jousting_wall_png,turret_left_png,flyman_action_json,flyman_action_png,balloonmc_png,balloonmc_json,ge_balloon_8_png,ge_balloon_delta_png,ge_balloon_V_png,ge_balloon_gamma_png,ge_balloon_inv_three_png,ge_balloon_inv_c_png,ge_balloon_horiz-line_png,ge_balloon_loop_png,ge_balloon_questionmark_png,ge_balloon_Z_png,ge_balloon_s_png,ge_balloon_vert-line_png,bon_json,bon_png,abc_json,abc_png,num_fnt,rmb_100_jpg",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/ge_cannon_open_22.png",
+			"type": "image",
+			"name": "ge_cannon_open_22_png"
+		},
+		{
+			"url": "assets/sky_00.png",
+			"type": "image",
+			"name": "sky_00_png"
+		},
+		{
+			"url": "assets/turret_right.png",
+			"type": "image",
+			"name": "turret_right_png"
+		},
+		{
+			"url": "assets/jousting_wall.png",
+			"type": "image",
+			"name": "jousting_wall_png"
+		},
+		{
+			"url": "assets/turret_left.png",
+			"type": "image",
+			"name": "turret_left_png"
+		},
+		{
+			"url": "assets/flyman_action.json",
+			"type": "json",
+			"name": "flyman_action_json"
+		},
+		{
+			"url": "assets/flyman_action.png",
+			"type": "image",
+			"name": "flyman_action_png"
+		},
+		{
+			"url": "assets/balloonmc.png",
+			"type": "image",
+			"name": "balloonmc_png"
+		},
+		{
+			"url": "assets/balloonmc.json",
+			"type": "json",
+			"name": "balloonmc_json"
+		},
+		{
+			"url": "assets/ge_balloon_8.png",
+			"type": "image",
+			"name": "ge_balloon_8_png"
+		},
+		{
+			"url": "assets/ge_balloon_delta.png",
+			"type": "image",
+			"name": "ge_balloon_delta_png"
+		},
+		{
+			"url": "assets/ge_balloon_V.png",
+			"type": "image",
+			"name": "ge_balloon_V_png"
+		},
+		{
+			"url": "assets/ge_balloon_gamma.png",
+			"type": "image",
+			"name": "ge_balloon_gamma_png"
+		},
+		{
+			"url": "assets/ge_balloon_inv_three.png",
+			"type": "image",
+			"name": "ge_balloon_inv_three_png"
+		},
+		{
+			"url": "assets/ge_balloon_inv_c.png",
+			"type": "image",
+			"name": "ge_balloon_inv_c_png"
+		},
+		{
+			"url": "assets/ge_balloon_horiz-line.png",
+			"type": "image",
+			"name": "ge_balloon_horiz-line_png"
+		},
+		{
+			"url": "assets/ge_balloon_loop.png",
+			"type": "image",
+			"name": "ge_balloon_loop_png"
+		},
+		{
+			"url": "assets/ge_balloon_questionmark.png",
+			"type": "image",
+			"name": "ge_balloon_questionmark_png"
+		},
+		{
+			"url": "assets/ge_balloon_Z.png",
+			"type": "image",
+			"name": "ge_balloon_Z_png"
+		},
+		{
+			"url": "assets/ge_balloon_s.png",
+			"type": "image",
+			"name": "ge_balloon_s_png"
+		},
+		{
+			"url": "assets/ge_balloon_vert-line.png",
+			"type": "image",
+			"name": "ge_balloon_vert-line_png"
+		},
+		{
+			"url": "assets/bon.json",
+			"type": "json",
+			"name": "bon_json"
+		},
+		{
+			"url": "assets/bon.png",
+			"type": "image",
+			"name": "bon_png"
+		},
+		{
+			"url": "assets/abc.json",
+			"type": "json",
+			"name": "abc_json"
+		},
+		{
+			"url": "assets/abc.png",
+			"type": "image",
+			"name": "abc_png"
+		},
+		{
+			"url": "assets/num.fnt",
+			"type": "font",
+			"name": "num_fnt"
+		},
+		{
+			"url": "assets/rmb_100.jpg",
+			"type": "image",
+			"name": "rmb_100_jpg"
+		}
+	]
+}
